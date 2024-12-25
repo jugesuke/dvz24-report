@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.12.22)  25 DEC 2024 17:49
+This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.12.22)  25 DEC 2024 17:55
  restricted system commands enabled.
 **main.tex
 (./main.tex
@@ -461,4 +461,319 @@ Lua module: fontspec 2024/05/11 v2.9e Font selection for XeLaTeX and LuaLaTeX
 (/usr/local/texlive/2024/texmf-dist/tex/latex/fontspec/fontspec-luatex.sty
 Package: fontspec-luatex 2024/05/11 v2.9e Font selection for XeLaTeX and LuaLaT
 eX
-\l__fontspec_script_int=\count
+\l__fontspec_script_int=\count285
+\l__fontspec_language_int=\count286
+\l__fontspec_strnum_int=\count287
+\l__fontspec_tmp_int=\count288
+\l__fontspec_tmpa_int=\count289
+\l__fontspec_tmpb_int=\count290
+\l__fontspec_tmpc_int=\count291
+\l__fontspec_em_int=\count292
+\l__fontspec_emdef_int=\count293
+\l__fontspec_strong_int=\count294
+\l__fontspec_strongdef_int=\count295
+\l__fontspec_tmpa_dim=\dimen165
+\l__fontspec_tmpb_dim=\dimen166
+\l__fontspec_tmpc_dim=\dimen167
+
+(/usr/local/texlive/2024/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+)
+(/usr/local/texlive/2024/texmf-dist/tex/latex/fontspec/fontspec.cfg)(save cache:
+ /usr/local/texlive/2024/texmf-var/luatexja/extra_lmroman10-bold.lua.gz)(save ca
+che: /usr/local/texlive/2024/texmf-var/luatexja/extra_lmroman10-bold.luc)
+LaTeX Font Info:    Font shape `JT3/mc/b/n' in size <10> not available
+(Font)              Font shape `JT3/gt/m/n' tried instead on input line 3978.
+LaTeX Font Info:    Font shape `JT3/gt/m/n' will be
+(Font)              scaled to size 8.44485pt on input line 3978.
+LaTeX Font Info:    Font shape `JY3/mc/b/n' in size <10> not available
+(Font)              Font shape `JY3/gt/m/n' tried instead on input line 3978.
+LaTeX Font Info:    Font shape `JY3/gt/m/n' will be
+(Font)              scaled to size 8.44485pt on input line 3978.
+(save cache: /usr/local/texlive/2024/texmf-var/luatexja/extra_haranoajigothic-me
+dium.lua.gz)(save cache: /usr/local/texlive/2024/texmf-var/luatexja/extra_harano
+ajigothic-medium.luc)))
+(/usr/local/texlive/2024/texmf-dist/tex/luatex/luatexja/patches/lltjp-fontspec.
+sty)
+(/usr/local/texlive/2024/texmf-dist/tex/luatex/luatexja/addons/luatexja-fontspe
+c-29e.sty
+Package: luatexja-fontspec-29e 2024-05-27 fontspec support of LuaTeX-ja
+\g__ltj_fontspec_altnumber_int=\count296
+))
+
+Package luatexja-preset Warning: Japanese fonts will be scaled by 0.924715.
+
+
+Package luatexja-fontspec Warning: \addjfontfeature(s) ignored;
+(luatexja-fontspec)                it cannot be used with a font that wasn't
+(luatexja-fontspec)                selected by luatexja-fontspec.
+
+(save cache: /usr/local/texlive/2024/texmf-var/luatexja/extra_haranoajigothic-he
+avy.lua.gz)(save cache: /usr/local/texlive/2024/texmf-var/luatexja/extra_haranoa
+jigothic-heavy.luc)(save cache: /usr/local/texlive/2024/texmf-var/luatexja/extra
+_haranoajimincho-light.lua.gz)(save cache: /usr/local/texlive/2024/texmf-var/lua
+texja/extra_haranoajimincho-light.luc)
+
+Package fontspec Info: 
+(fontspec)             HaranoAjiMincho-Regular scale = 0.924715.
+
+
+Package fontspec Info: 
+(fontspec)             HaranoAjiMincho-Light scale = 0.924715.
+
+
+Package fontspec Info: 
+(fontspec)             HaranoAjiMincho-Light scale = 0.924715.
+
+
+Package fontspec Info: 
+(fontspec)             HaranoAjiMincho-Regular scale = 0.924715.
+
+
+Package fontspec Info: 
+(fontspec)             HaranoAjiMincho-Regular scale = 0.924715.
+
+(save cache: /usr/local/texlive/2024/texmf-var/luatexja/extra_haranoajimincho-bo
+ld.lua.gz)(save cache: /usr/local/texlive/2024/texmf-var/luatexja/extra_haranoaj
+imincho-bold.luc)
+
+Package fontspec Info: 
+(fontspec)             HaranoAjiMincho-Bold scale = 0.924715.
+
+
+Package fontspec Info: 
+(fontspec)             HaranoAjiMincho-Bold scale = 0.924715.
+
+
+Package fontspec Info: 
+(fontspec)             Font family 'HaranoAjiMincho-Regular.otf(0)' created
+(fontspec)             for font 'HaranoAjiMincho-Regular.otf' with options
+(fontspec)             [YokoFeatures={JFM=ujis},TateFeatures={JFM=ujisv},Scale=
+0.924715,Kerning=Off,Script=CJK,FontFace={l}{n}{Font=HaranoAjiMincho-Light.otf,
+},BoldFont=HaranoAjiMincho-Bold.otf,YokoFeatures={Style=HorizontalKana},TateFea
+tures={Style=VerticalKana},YokoFeatures={JFM=ujis},TateFeatures={JFM=ujisv},Scr
+ipt=CJK].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+
+LaTeX Font Info:    Redeclaring symbol font `mincho' on input line 734.
+LaTeX Font Info:    Overwriting symbol font `mincho' in version `normal'
+(Font)                  JY3/mc/m/n --> JY3/HaranoAjiMincho-Regular.otf(0)/m/n o
+n input line 734.
+LaTeX Font Info:    Overwriting symbol font `mincho' in version `bold'
+(Font)                  JY3/gt/m/n --> JY3/HaranoAjiMincho-Regular.otf(0)/m/n o
+n input line 734.
+LaTeX Font Info:    Overwriting symbol font `mincho' in version `bold'
+(Font)                  JY3/HaranoAjiMincho-Regular.otf(0)/m/n --> JY3/HaranoAj
+iMincho-Regular.otf(0)/b/n on input line 734.
+LaTeX Font Info:    Font shape `JT3/HaranoAjiMincho-Regular.otf(0)/m/n' will be
+
+(Font)              scaled to size 9.24713pt on input line 734.
+LaTeX Font Info:    Font shape `JY3/HaranoAjiMincho-Regular.otf(0)/m/n' will be
+
+(Font)              scaled to size 9.24713pt on input line 734.
+(save cache: /usr/local/texlive/2024/texmf-var/luatexja/extra_haranoajigothic-re
+gular.lua.gz)(save cache: /usr/local/texlive/2024/texmf-var/luatexja/extra_haran
+oajigothic-regular.luc)
+
+Package fontspec Info: 
+(fontspec)             HaranoAjiGothic-Regular scale = 0.924715.
+
+
+Package fontspec Info: 
+(fontspec)             HaranoAjiGothic-Heavy scale = 0.924715.
+
+
+Package fontspec Info: 
+(fontspec)             HaranoAjiGothic-Heavy scale = 0.924715.
+
+
+Package fontspec Info: 
+(fontspec)             HaranoAjiGothic-Regular scale = 0.924715.
+
+
+Package fontspec Info: 
+(fontspec)             HaranoAjiGothic-Regular scale = 0.924715.
+
+(save cache: /usr/local/texlive/2024/texmf-var/luatexja/extra_haranoajigothic-bo
+ld.lua.gz)(save cache: /usr/local/texlive/2024/texmf-var/luatexja/extra_haranoaj
+igothic-bold.luc)
+
+Package fontspec Info: 
+(fontspec)             HaranoAjiGothic-Bold scale = 0.924715.
+
+
+Package fontspec Info: 
+(fontspec)             HaranoAjiGothic-Bold scale = 0.924715.
+
+
+Package fontspec Info: 
+(fontspec)             Font family 'HaranoAjiGothic-Regular.otf(0)' created
+(fontspec)             for font 'HaranoAjiGothic-Regular.otf' with options
+(fontspec)             [YokoFeatures={JFM=ujis},TateFeatures={JFM=ujisv},Scale=
+0.924715,Kerning=Off,Script=CJK,FontFace={eb}{n}{Font=HaranoAjiGothic-Heavy.otf
+,},BoldFont=HaranoAjiGothic-Bold.otf,YokoFeatures={Style=HorizontalKana},TateFe
+atures={Style=VerticalKana},YokoFeatures={JFM=ujis},TateFeatures={JFM=ujisv},Sc
+ript=CJK].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+
+LaTeX Font Info:    Redeclaring math alphabet \mathgt on input line 734.
+LaTeX Font Info:    Overwriting math alphabet `\mathgt' in version `normal'
+(Font)                  JY3/gt/m/n --> JY3/HaranoAjiGothic-Regular.otf(0)/m/n o
+n input line 734.
+LaTeX Font Info:    Overwriting math alphabet `\mathgt' in version `bold'
+(Font)                  JY3/gt/m/n --> JY3/HaranoAjiGothic-Regular.otf(0)/m/n o
+n input line 734.
+
+Package fontspec Info: 
+(fontspec)             HaranoAjiGothic-Medium scale = 0.924715.
+
+
+Package fontspec Info: 
+(fontspec)             HaranoAjiGothic-Medium scale = 0.924715.
+
+
+Package fontspec Info: 
+(fontspec)             HaranoAjiGothic-Medium scale = 0.924715.
+
+
+Package fontspec Info: 
+(fontspec)             HaranoAjiGothic-Medium scale = 0.924715.
+
+
+Package fontspec Info: 
+(fontspec)             HaranoAjiGothic-Medium scale = 0.924715.
+
+
+Package fontspec Info: 
+(fontspec)             Font family 'HaranoAjiGothic-Medium.otf(0)' created for
+(fontspec)             font 'HaranoAjiGothic-Medium.otf' with options
+(fontspec)             [YokoFeatures={JFM=ujis},TateFeatures={JFM=ujisv},Scale=
+0.924715,Kerning=Off,Script=CJK,BoldFont=HaranoAjiGothic-Medium.otf,YokoFeature
+s={Style=HorizontalKana},TateFeatures={Style=VerticalKana},YokoFeatures={JFM=uj
+is},TateFeatures={JFM=ujisv},Script=CJK].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/setspace/setspace.sty
+Package: setspace 2022/12/04 v6.7b set line spacing
+)
+(./fun-report-template.sty
+(/usr/local/texlive/2024/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2024/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2024/08/06 v1.4g Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2024/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
+)
+(/usr/local/texlive/2024/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: luatex.def on input line 106.
+
+(/usr/local/texlive/2024/texmf-dist/tex/latex/graphics-def/luatex.def
+File: luatex.def 2024/04/13 v1.2e Graphics/color driver for luatex
+))
+\Gin@req@height=\dimen168
+\Gin@req@width=\dimen169
+)
+(/usr/local/texlive/2024/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+(/usr/local/texlive/2024/texmf-dist/tex/latex/nidanfloat/nidanfloat.sty
+Package: nidanfloat 2018/07/28 v2.9 Put double-floats at top/bottom within twoc
+olumn mode
+\c@dblbotnumber=\count297
+\@dblbotroom=\dimen170
+\@dblbotnum=\count298
+\@floatht=\dimen171
+\@fixht=\dimen172
+\@rightfixht=\dimen173
+\@combinebox=\box71
+)
+(/usr/local/texlive/2024/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen174
+\lightrulewidth=\dimen175
+\cmidrulewidth=\dimen176
+\belowrulesep=\dimen177
+\belowbottomsep=\dimen178
+\aboverulesep=\dimen179
+\abovetopsep=\dimen180
+\cmidrulesep=\dimen181
+\cmidrulekern=\dimen182
+\defaultaddspace=\dimen183
+\@cmidla=\count299
+\@cmidlb=\count300
+\@aboverulesep=\dimen184
+\@belowrulesep=\dimen185
+\@thisruleclass=\count301
+\@lastruleclass=\count302
+\@thisrulewidth=\dimen186
+))
+luaotfload | cache : Lookup cache loaded from /usr/local/texlive/2024/texmf-var/
+luatex-cache/generic/names/luaotfload-lookup-cache.luc.(save cache: /usr/local/t
+exlive/2024/texmf-var/luatexja/extra_pshuei5ppron-regular.lua.gz)(save cache: /u
+sr/local/texlive/2024/texmf-var/luatexja/extra_pshuei5ppron-regular.luc)
+
+Package fontspec Info: 
+(fontspec)             A P-OTF Shuei5+ ProN R scale = 0.924715.
+
+
+Package fontspec Info: 
+(fontspec)             Could not resolve font "A P-OTF Shuei5+ ProN R/BI" (it
+(fontspec)             probably doesn't exist).
+
+
+Package fontspec Info: 
+(fontspec)             Could not resolve font "A P-OTF Shuei5+ ProN R/B" (it
+(fontspec)             probably doesn't exist).
+
+
+Package fontspec Info: 
+(fontspec)             Could not resolve font "A P-OTF Shuei5+ ProN R/I" (it
+(fontspec)             probably doesn't exist).
+
+
+Package fontspec Info: 
+(fontspec)             A P-OTF Shuei5+ ProN R scale = 0.924715.
+
+
+Package fontspec Info: 
+(fontspec)             A P-OTF Shuei5+ ProN R scale = 0.924715.
+
+
+Package fontspec Info: 
+(fontspec)             Font family 'AP-OTFShuei5+ProNR(0)' created for font 'A
+(fontspec)             P-OTF Shuei5+ ProN R' with options
+(fontspec)             [YokoFeatures={JFM=ujis},TateFeatures={JFM=ujisv},Scale=
+0.924715,Kerning=Off,Script=CJK].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+
+LaTeX Font Info:    Redeclaring symbol font `mincho' on input line 16.
+LaTeX Font Info:    Overwriting symbol font `mincho' in version `normal'
+(Font)                  JY3/HaranoAjiMincho-Regular.otf(0)/m/n --> JY3/AP-OTFSh
+uei5+ProNR(0)/m/n on input line 16.
+LaTeX Font Info:    Overwriting symbol font `mincho' in version `bold'
+(Font)                  JY3/HaranoAjiMincho-Regular.otf(0)/b/n --> JY3/AP-OTFSh
+uei5+ProNR(0)/m/n on input line 16.
+LaTeX Font Info:    Overwriting symbol font `mincho' in version `bold'
+(Font)                  JY3/AP-OTFShuei5+ProNR(0)/m/n --> JY3/AP-OTFShuei5+ProN
+R(0)/b/n on input line 16.
+LaTeX Font Info:    Font shape `JT3/AP-OTFShuei5+ProNR(0)/m/n' will be
+(Font)              scaled to size 9.24713pt on input line 16.
+LaTeX Font Info:    Font shape `JY3/AP-OTFShuei5+ProNR(0)/m/n' will be
+(Font)              scaled to size 9.24713pt on input line
