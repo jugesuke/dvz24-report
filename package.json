@@ -1,0 +1,16 @@
+{
+  "name": "mcbook",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "textlint": "^13.3.3",
+    "textlint-plugin-latex2e": "^1.2.1",
+    "textlint-rule-preset-japanese": "^8.0.0"
+  }
+}

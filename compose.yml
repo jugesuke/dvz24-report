@@ -1,0 +1,15 @@
+version: "3.3"
+services:
+  texlive:
+    build: ./docker/texlive
+    volumes:
+      - .:/src
+      - /mnt/c/Users/Learning/AppData/Local/Microsoft/Windows/Fonts/MorisawaFonts:/usr/local/texlive/texmf-local/fonts/opentype/public/morisawa
+  textlint:
+    build:
+      context: .
+      dockerfile: ./docker/linter/Dockerfile
+    volumes:
+      - .:/src
+    tty: true
+    command: npx textlint pages/*/*.tex
