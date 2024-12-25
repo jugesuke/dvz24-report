@@ -1,0 +1,55 @@
+%%% Last Updated: 2021-07-24 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%  ______ _    _ _   _  _____                          _______                   _       _        %
+% |  ____| |  | | \ | ||  __ \                      _ |__   __|                 | |     | |       %
+% | |__  | |  | |  \| || |__) |___ _ __   ___  _ __| |_  | | ___ _ __ ___  _ __ | | __ _| |_ ___  %
+% |  __| | |  | | . ` ||  _  // _ \ '_ \ / _ \| '__| __| | |/ _ \ '_ ` _ \| '_ \| |/ _` | __/ _ \ %
+% | |    | |__| | |\  || | \ \  __/ |_) | (_) | |  | |_  | |  __/ | | | | | |_) | | (_| | ||  __/ %
+% |_|     \____/|_| \_||_|  \_\___| .__/ \___/|_|   \__| |_|\___|_| |_| |_| .__/|_|\__,_|\__\___| %
+%                                 |_|                                     |_|                     %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\usepackage{graphicx}
+% \usepackage[dvipdfmx]{color}
+\usepackage{url}
+\usepackage{nidanfloat}
+\usepackage{booktabs}
+% \usepackage [top=25truemm, bottom=25truemm, left=20truemm, right=20truemm]{geometry}
+
+% %% Font Setting
+% \usepackage[deluxe,uplatex]{otf}
+% \usepackage[noalphabet]{pxchfon}
+% \usepackage{lmodern}
+
+% %% Set Mincho Font
+% \setminchofont{ShipporiMincho-Regular.ttf}
+% \setboldminchofont{ShipporiMincho-Bold.ttf}
+
+% %% Set Gothic Font
+% \setgothicfont{GenShinGothic-Normal.ttf}
+% \setboldgothicfont{GenShinGothic-Bold.ttf}
+
+% %% Set Maru Gothic Font
+% \setmarugothicfont{GenJyuuGothic-Normal.ttf}
+
+%% For Report Title
+\def\course#1{\def\@course{#1}}
+\def\id#1{\def\@id{#1}}
+\def\class#1{\def\@class{#1}}
+
+\def\@maketitle{
+\begin{center}
+{\large \@course \enspace レポート \par}
+\vspace{2mm}
+{\LARGE\bf \@title \par}% 論文のタイトル部分
+\vspace{5mm}
+{\Large \@date \par} % 提出年月日部分
+\vspace{5mm}
+{\large
+\begin{tabular}{rl}
+    学籍番号: & \@id\\
+    クラス: & \@class\\
+    氏名: & \@author
+\end{tabular}
+}
+\end{center}
+\par\vskip 1.5em
+}

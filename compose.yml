@@ -4,7 +4,7 @@ services:
     build: ./docker/texlive
     volumes:
       - .:/src
-      - /mnt/c/Users/Learning/AppData/Local/Microsoft/Windows/Fonts/MorisawaFonts:/usr/local/texlive/texmf-local/fonts/opentype/public/morisawa
+      - /mnt/c/Users/Juges/AppData/Local/Microsoft/Windows/Fonts/MorisawaFonts:/usr/local/texlive/texmf-local/fonts/opentype/public/morisawa
   textlint:
     build:
       context: .

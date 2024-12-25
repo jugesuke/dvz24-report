@@ -12,3 +12,5 @@ clean:
 	docker compose run --rm texlive latexmk -c
 lint:
 	docker compose up textlint
+fontlist:
+	docker compose run --rm texlive bash -c "mktexlsr && luaotfload-tool --update && luaotfload-tool --list=*"
